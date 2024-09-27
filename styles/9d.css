@@ -1,0 +1,21 @@
+.div{
+    border :none;
+    background-color: black;
+    width: 400px;
+    padding:20px;
+    }
+    .text-heading{ 
+    color: white;
+    font-weight:bold;
+    font-size: 24px;
+    font-family: Arial;
+   
+    
+    
+    }
+    .text-description{
+    color:white;
+    width:370px;   
+    font-size: 16px;
+    font-family: Arial;
+    }

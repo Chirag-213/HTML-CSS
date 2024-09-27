@@ -1,0 +1,35 @@
+.text{
+     font-size: 30px;
+     color:black;
+     font-weight:600;
+     font-family:Arial;
+}
+.text-box{
+    color: gray;
+    border:none;
+    background-color:rgba(128, 128, 128, 0.273) ;
+    margin-bottom:5px;
+    width:300px;
+    padding:10px 12px; 
+    border-radius: 5px;
+
+    display:block;
+}
+.request-button{
+    color:white;
+    background-color: black;
+    padding:10px 16px;
+    margin-top: 30px;
+    margin-right: 10px;
+    border:none;
+
+}
+.schedule-button{
+    color:black;
+    margin-top: 30px;
+    padding:10px 16px;
+    border:none;
+    border-radius: 5px;
+    background-color:rgba(128, 128, 128, 0.273) ;
+    font-weight: bold;
+}

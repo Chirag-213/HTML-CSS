@@ -1,0 +1,18 @@
+.div{
+border :1px solid black ;
+width: 300px;
+}
+.text{
+font-weight: 400;
+font-size: 16px;
+font-family: Arial;
+margin-left: 15px;
+
+}
+.button{
+    border:1px solid black;
+    border-radius:2px;
+    background-color: rgba(128, 128, 128, 0.325);
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
