@@ -1,0 +1,16 @@
+.bottom-right{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    background-color: black;
+    z-index: 1;
+}
+.sidebar{
+    position: fixed;
+    background-color: green;
+    top:0px;
+    bottom: 0px;
+    right: 0px;
+    width:100px;
+}
